@@ -1,0 +1,7 @@
+Mobile guitar tuner (J2ME, MIDP2.0). Unfortunately, it can only tune in the key of E.
+
+# Execute app.
+# Select string to tune.
+# Tune your string in accordance to the generated sound.
+
+
